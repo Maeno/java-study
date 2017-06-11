@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ex_ar.iml" filepath="$PROJECT_DIR$/.idea/modules/ex_ar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ex_ar_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ex_ar_main.iml" group="ex_ar" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ex_ar_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ex_ar_test.iml" group="ex_ar" />
+    </modules>
+  </component>
+</project>

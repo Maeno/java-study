@@ -1,0 +1,2 @@
+drop sequence emp_seq;
+drop table emp;
